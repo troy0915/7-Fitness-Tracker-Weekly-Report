@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\7) Fitness Tracker Weekly Report\obj\Debug\7) Fitness Tracker Weekly Report.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\7) Fitness Tracker Weekly Report\obj\Debug\7) Fitness Tracker Weekly Report.csproj.CoreCompileInputs.cache
